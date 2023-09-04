@@ -1,2 +1,2 @@
 "pgbouncer" "SCRAM-SHA-256$4096:"
-"celero-db-develop" "SCRAM-SHA-256$4096:"
+"db-develop" "SCRAM-SHA-256$4096:"
